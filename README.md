@@ -1,1 +1,2 @@
-# webpack-multipage-solution
+## 基于webpack的前端工程化开发之多页站点篇
+我整理和完善了基于webpack的多页面开发体系，在该项目中使用的是webpack1.x版本，如果使用2.x版本，则需要修改部分配置
